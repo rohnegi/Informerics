@@ -1,0 +1,7 @@
+.Image{
+  background-image: url("../src/Images/Login.jpg");
+  height:'100vh';
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
