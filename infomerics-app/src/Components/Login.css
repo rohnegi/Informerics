@@ -1,0 +1,13 @@
+.Image{
+    background-image: url("../Images/Login.jpg");
+    height:'100vh';
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .css-1h52y6e-MuiContainer-root{
+    padding-left: 0;
+  }
+  .css-kicy4c-MuiContainer-root{
+    padding-left: 0;
+  }
